@@ -1,4 +1,4 @@
-# <img src="assets/img/logo/icon.png"> DemoBlox 
+# <img src="assets/img/logo/icon.png" width ="28"> DemoBlox 
 
 > A clean, and responsive landing page for demo blox!
 
