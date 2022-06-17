@@ -1,6 +1,6 @@
 # <img src="assets/img/logo/icon.png" width ="28"> DemoBlox 
 
-> A clean, and responsive landing page for demo blox!
+> A clean, and responsive webpage page for DemoBlox!
 
 > https://demoblox.com
 
