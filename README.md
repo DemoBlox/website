@@ -23,7 +23,7 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5, CSS3 & JavaScript\
-⚡️ Slide animation using `slide.js`\
+⚡️ Web translation using Weglot\
 ⚡️ Dynamic animations using webflow\
 ⚡️ Easy to modify
 
