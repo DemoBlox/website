@@ -23,6 +23,7 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5, CSS3 & JavaScript\
+⚡️ JavaScript animation library using Gsap\
 ⚡️ Web translation using Weglot\
 ⚡️ Dynamic animations using webflow\
 ⚡️ Easy to modify
