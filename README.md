@@ -23,9 +23,10 @@
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5, CSS3 & JavaScript\
-⚡️ JavaScript animation library using Gsap\
-⚡️ Web translation using Weglot\
-⚡️ Dynamic animations using webflow\
+⚡️ JavaScript animation library using `Gsap`\
+⚡️ Web translation using `weglot`\
+⚡️ Dynamic animations using `webflow`\
+⚡️ `Splide.core`\
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
@@ -48,6 +49,7 @@ To view a live **[click here](https://demoblox.github.io/)**
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host the website (HTML, CSS, JS).
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+* [<b>Gsap</b>](https://greensock.com/) - JavaScript Library
 
 ## Contributing 💡
 #### Step 1
@@ -66,6 +68,12 @@ To view a live **[click here](https://demoblox.github.io/)**
 #### Step 3
 
 - 🔃 Create a new pull request.
+
+## Update The Following
+* Content; as most of the content used are placeholders
+* Contact
+* Google analytics
+* Meta tag description.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
