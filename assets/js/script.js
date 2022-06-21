@@ -342,6 +342,9 @@
         }
       }; // Feature detects + browser sniffs  à² _à²
 
+      //touch target hero loop
+
+
       var userAgent = navigator.userAgent.toLowerCase();
       var touch = (Webflow.env.touch = "ontouchstart" in window || (window.DocumentTouch && document instanceof window.DocumentTouch));
       var chrome = (Webflow.env.chrome =
