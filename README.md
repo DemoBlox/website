@@ -1,4 +1,4 @@
-# <img src="assets/img/logo/icon.png" width ="28"> DemoBlox 
+# <img src="assets/media/brand-logo/icon.png" width ="28"> DemoBlox 
 
 > A clean, and responsive webpage page for DemoBlox!
 
