@@ -7602,8 +7602,8 @@ a {
     right: 0;
     bottom: 0;
     height: auto;
-    margin-top: -91px;
-    padding-top: 100px;
+    margin-top: -40px;
+    padding-top: 50px;
     -webkit-box-pack: end;
     -webkit-justify-content: flex-end;
     -ms-flex-pack: end;
@@ -7617,8 +7617,8 @@ a {
     margin-bottom: 20px;
   }
   .slider-image-wrap.video {
-    height: 141px;
-    max-width: 252px;
+    height: 282px;
+    max-width: 504px;
   }
   .slidewrap--container {
     width: 650px;

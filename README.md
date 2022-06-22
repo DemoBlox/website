@@ -14,7 +14,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://demoblox.github.io" target="_blank"><img src="assets/examples/preview.gif">
+    <a href="https://demoblox.github.io/website/" target="_blank"><img src="assets/examples/preview.gif">
   </a>
   </kbd>
 </p>
